@@ -1,0 +1,46 @@
+{
+  "menu": {
+    "index": "",
+    "intro": "",
+    "feature": "",
+    "contact": ""
+  },
+  "index": {
+    "title": "",
+    "button": ""
+  },
+  "intro": {
+    "description": "",
+    "items": [{
+      "title": "",
+      "content": ""
+    }, {
+      "title": "",
+      "content": ""
+    }, {
+      "title": "",
+      "content": ""
+    }]
+  },
+  "feature": {
+    "title": "",
+    "items": [{
+      "hoverName": "",
+      "title": "",
+      "content": ""
+    }, {
+      "hoverName": "",
+      "title": "",
+      "content": ""
+    }, {
+      "hoverName": "",
+      "title": "",
+      "content": ""
+    }]
+  },
+  "contact": {
+    "title": "",
+    "emailPlaceholder": "",
+    "button": ""
+  }
+}
